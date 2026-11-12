@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ER81e3a77dfe",
+    "church_id": "C518386e1cf",
+    "church_name": "RUHANGO",
+    "recipient": "paruwasi@adepr.rw",
+    "subject": "Incamake y'icyumweru — Itorero rya RUHANGO",
+    "period": "weekly",
+    "status": "sent",
+    "error": "",
+    "trigger": "manual",
+    "sent_at": "2026-11-10T06:47:37"
+  }
+]

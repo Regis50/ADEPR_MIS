@@ -1,0 +1,18 @@
+{
+  "smtp_host": "",
+  "smtp_port": "587",
+  "smtp_user": "",
+  "smtp_password": "",
+  "smtp_from": "",
+  "smtp_use_tls": true,
+  "auto_process_queue": true,
+  "auto_weekly_email": true,
+  "weekly_email_day": "mon",
+  "weekly_email_hour": 8,
+  "queue_max_retries": 5,
+  "sms_gateway_url": "http://192.168.1.169:8082",
+  "sms_dry_run": true,
+  "last_queue_run": "2026-11-12T15:42:45",
+  "last_email_run": "",
+  "last_backup": ""
+}

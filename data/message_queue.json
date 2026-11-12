@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MQ4fe5cd958c",
+    "channel": "sms",
+    "to": "0786717390",
+    "subject": "",
+    "body": "Test message yo kwemeza ko queue ikora — ADEPR MIS.",
+    "church_id": "C518386e1cf",
+    "created_by": "U1",
+    "created_by_name": "Seed",
+    "status": "failed",
+    "attempts": 5,
+    "last_error": "gateway ntabwo ikora",
+    "sent_at": "",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "MQdaaff77e55",
+    "channel": "email",
+    "to": "paruwasi@adepr.rw",
+    "subject": "Test — ADEPR MIS queue",
+    "body": "Iyi email iri mu murongo — izoherejwe iyo SMTP ikonfigiwe.",
+    "church_id": "C518386e1cf",
+    "created_by": "U1",
+    "created_by_name": "Seed",
+    "status": "failed",
+    "attempts": 5,
+    "last_error": "SMTP ntabwo ikora",
+    "sent_at": "",
+    "created_at": "2026-11-10T06:47:37"
+  }
+]

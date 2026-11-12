@@ -1,0 +1,28 @@
+[
+  {
+    "id": "DR099ea4b562",
+    "member_id": "M7de176c885",
+    "member_name": "Claudine Nsengimana",
+    "church_id": "C518386e1cf",
+    "church_name": "RUHANGO",
+    "category": "ABASHYINGIWE",
+    "reported_by": "U64da1bccc6",
+    "reported_by_name": "Pasteur Muyobozi wa Paruwasi",
+    "death_date": "2026-10-25",
+    "notes": "Yitabye Imana akurikije indwara.",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "DR7ca61c7904",
+    "member_id": "M76a20fd768",
+    "member_name": "Solange Bizimana",
+    "church_id": "C518386e1cf",
+    "church_name": "RUHANGO",
+    "category": "ABATASHYE_GUPFA",
+    "reported_by": "U64da1bccc6",
+    "reported_by_name": "Pasteur Muyobozi wa Paruwasi",
+    "death_date": "2026-10-25",
+    "notes": "Yitabye Imana akurikije indwara.",
+    "created_at": "2026-11-10T06:47:37"
+  }
+]

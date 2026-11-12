@@ -1,0 +1,58 @@
+[
+  {
+    "id": "A2fe93b8b9b",
+    "title": "Iteraniro ry'abashumba",
+    "message": "Muraho abashumba b'amatorero. Hari inama ku wa gatatu saa 10:00 kuri Paruwasi. Mweze.",
+    "target_role": "CHURCH_PASTOR",
+    "sent_by": "",
+    "sender_name": "Umushumba wa Paruwasi",
+    "dry_run": true,
+    "recipients_count": 0,
+    "sent_count": 0,
+    "failed_count": 0,
+    "status": "DRAFT",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Acb3df09953",
+    "title": "Test",
+    "message": "Test SMS",
+    "target_role": "CHURCH_PASTOR",
+    "sent_by": "U64da1bccc6",
+    "sender_name": "Parish Pastor V13",
+    "dry_run": true,
+    "recipients_count": 38,
+    "sent_count": 38,
+    "failed_count": 0,
+    "status": "DRY_RUN",
+    "created_at": "2026-11-10T06:54:02"
+  },
+  {
+    "id": "A5ffc8d7697",
+    "title": "Smoke test",
+    "message": "Smoke: panel-configured broadcast",
+    "target_role": "CHURCH_PASTOR",
+    "sent_by": "U64da1bccc6",
+    "sender_name": "Parish Pastor V13",
+    "dry_run": true,
+    "recipients_count": 38,
+    "sent_count": 38,
+    "failed_count": 0,
+    "status": "DRY_RUN",
+    "created_at": "2026-11-10T06:54:02"
+  },
+  {
+    "id": "Abd67daee92",
+    "title": "Test",
+    "message": "Test SMS",
+    "target_role": "CHURCH_PASTOR",
+    "sent_by": "U64da1bccc6",
+    "sender_name": "Parish Pastor V13",
+    "dry_run": true,
+    "recipients_count": 38,
+    "sent_count": 38,
+    "failed_count": 0,
+    "status": "DRY_RUN",
+    "created_at": "2026-11-10T07:14:33"
+  }
+]

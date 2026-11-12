@@ -1,0 +1,17 @@
+[
+  {
+    "id": "DLGbf5f263020",
+    "delegate_name": "Muyobozi wa Paruwasi (Manager)",
+    "delegate_role": "PARISH_MANAGER",
+    "delegate_user_id": "",
+    "church_id": "",
+    "feature": "offering",
+    "reason": "Umushumba wa paruwasi ari ku rugendo",
+    "start_date": "2026-11-10",
+    "end_date": "2026-12-10",
+    "status": "ACTIVE",
+    "delegated_by": "PP",
+    "delegated_by_name": "Parish Pastor",
+    "created_at": "2026-11-10T06:47:37"
+  }
+]

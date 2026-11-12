@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Z88ce8f46ea",
+    "church_id": "C518386e1cf",
+    "name": "Zone ya RUHANGO",
+    "reader_id": "U95aab8d650",
+    "reader_name": "Umuyobozi wa Zone Ruhango",
+    "description": "Zone yo gusanzwe mu itorero rya RUHANGO",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Zb0d0522fe5",
+    "church_id": "C6a12c8aadd",
+    "name": "Zone ya MUNINI",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya MUNINI",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Zfa8ec9b413",
+    "church_id": "Ceccaede632",
+    "name": "Zone ya KABUTARE",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya KABUTARE",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Z5f59a200dd",
+    "church_id": "C33e92dcafa",
+    "name": "Zone ya GITISI",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya GITISI",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Z3a237ed8a0",
+    "church_id": "C2d8b8ac794",
+    "name": "Zone ya BUHORO",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya BUHORO",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Z513ac5270e",
+    "church_id": "C6f1271f60f",
+    "name": "Zone ya BUNYOGOMBE",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya BUNYOGOMBE",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Zc7564c5420",
+    "church_id": "C5def0f372d",
+    "name": "Zone ya KAREBA",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya KAREBA",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Za9d1107d81",
+    "church_id": "Caf2870405b",
+    "name": "Zone ya GIKOMA",
+    "reader_id": "",
+    "reader_name": "Umuyobozi wa zone",
+    "description": "Zone yo gusanzwe mu itorero rya GIKOMA",
+    "created_at": "2026-11-10T06:47:37"
+  }
+]

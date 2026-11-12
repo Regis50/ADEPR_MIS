@@ -1,0 +1,102 @@
+[
+  {
+    "id": "SCdcba81e857",
+    "title": "Inama y'Urubyiruko",
+    "description": "Inama y'urubyiruko rwa Paruwasi.",
+    "scheduled_by": "U64da1bccc6",
+    "scheduled_by_name": "Pasteur Muyobozi wa Paruwasi",
+    "scheduled_by_role": "PARISH_PASTOR",
+    "church_id": "C518386e1cf",
+    "ministry_id": "MNd24daa9b71",
+    "datetime": "2026-11-08T16:00",
+    "location": "Paruwasi",
+    "status": "done",
+    "feedback": [
+      {
+        "user_id": "U84b1ca38fd",
+        "user_name": "Muyobozi w'Abana",
+        "user_role": "MINISTRY_LEADER",
+        "text": "Byagenze neza, abagabo benshi bahisemo.",
+        "created_at": "2026-11-10T06:47:37"
+      }
+    ],
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "SC1f626a6a88",
+    "title": "Inama y'abashumba",
+    "description": "Inama y'ukwezi y'abashumba b'amatorero.",
+    "scheduled_by": "U64da1bccc6",
+    "scheduled_by_name": "Pasteur Muyobozi wa Paruwasi",
+    "scheduled_by_role": "PARISH_PASTOR",
+    "church_id": "C518386e1cf",
+    "ministry_id": "MNd24daa9b71",
+    "datetime": "2026-11-13T10:00",
+    "location": "Kuri Paruwasi",
+    "status": "upcoming",
+    "feedback": [],
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "SCe9bcf3a524",
+    "title": "Igikoresho cy'abana",
+    "description": "Gukarima abana b'amatorero.",
+    "scheduled_by": "U64da1bccc6",
+    "scheduled_by_name": "Pasteur Muyobozi wa Paruwasi",
+    "scheduled_by_role": "PARISH_PASTOR",
+    "church_id": "C518386e1cf",
+    "ministry_id": "MNd24daa9b71",
+    "datetime": "2026-11-17T14:00",
+    "location": "Ku matorero",
+    "status": "upcoming",
+    "feedback": [],
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "SCfe4e0e3b29",
+    "title": "Test event minister",
+    "description": "test",
+    "scheduled_by": "",
+    "scheduled_by_name": "",
+    "scheduled_by_role": "",
+    "church_id": "C518386e1cf",
+    "ministry_id": "",
+    "datetime": "2026-12-01T10:00",
+    "location": "RUHANGO",
+    "status": "approved",
+    "feedback": [],
+    "created_at": "2026-11-10T06:54:01",
+    "category": "ABANA"
+  },
+  {
+    "id": "SCec256ac3d7",
+    "title": "Test event minister",
+    "description": "test",
+    "scheduled_by": "",
+    "scheduled_by_name": "",
+    "scheduled_by_role": "",
+    "church_id": "C518386e1cf",
+    "ministry_id": "",
+    "datetime": "2026-12-01T10:00",
+    "location": "RUHANGO",
+    "status": "approved",
+    "feedback": [],
+    "created_at": "2026-11-10T07:14:33",
+    "category": "ABANA"
+  },
+  {
+    "id": "SC188ff57925",
+    "title": "Urugero",
+    "description": "",
+    "scheduled_by": "U84b1ca38fd",
+    "scheduled_by_name": "Muyobozi w'Abana",
+    "scheduled_by_role": "MINISTRY_LEADER",
+    "church_id": "C518386e1cf",
+    "ministry_id": "MNd24daa9b71",
+    "datetime": "2026-11-12T18:21",
+    "location": "",
+    "status": "cancelled",
+    "feedback": [],
+    "created_at": "2026-11-12T15:20:26"
+  }
+]

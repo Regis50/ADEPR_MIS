@@ -1,0 +1,42 @@
+[
+  {
+    "id": "D96fe012298",
+    "member_id": "Mc9d010ad44",
+    "member_name": "Gaspard Twizeyimana",
+    "church_id": "C518386e1cf",
+    "discipline_type": "WARNING",
+    "reason": "Kudahwitamo amaturo",
+    "action_taken": "Yavuzweho",
+    "certificate": "",
+    "status": "CONFIRMED",
+    "raised_by": "seed",
+    "raised_by_name": "Church Pastor",
+    "raised_by_role": "CHURCH_PASTOR",
+    "confirmed_by": "PP",
+    "confirmed_by_name": "Parish Pastor",
+    "confirmed_at": "2026-11-10T06:47:37",
+    "confirmation_note": "Byemejwe",
+    "lifted_at": "",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "D9b900099b1",
+    "member_id": "M494abbc52a",
+    "member_name": "Marie Bizimana",
+    "church_id": "C6a12c8aadd",
+    "discipline_type": "SUSPENSION",
+    "reason": "Ibyo yakorewe badahwituye",
+    "action_taken": "Yahagaritswe ku minsi 30",
+    "certificate": "",
+    "status": "PENDING",
+    "raised_by": "seed",
+    "raised_by_name": "Church Pastor",
+    "raised_by_role": "CHURCH_PASTOR",
+    "confirmed_by": "",
+    "confirmed_by_name": "",
+    "confirmed_at": "",
+    "confirmation_note": "",
+    "lifted_at": "",
+    "created_at": "2026-11-10T06:47:37"
+  }
+]

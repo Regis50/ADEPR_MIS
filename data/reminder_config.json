@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "days_after_week_start": 2,
+  "hour": 18,
+  "minute": 0,
+  "message_template": "Muraho {church_name},\n\nTugirango tubibutse ko amaturo y'icyumweru cya {week_date} atannzwe kuri paruwasi. Tugirango ayohereze vuba kugiraango raporo y'icyumweru ikore neza.\n\nMurakoze — {parish_name}",
+  "auto_send_enabled": false,
+  "last_run": "",
+  "last_run_week": "",
+  "updated_at": "2026-11-10T13:12:20"
+}

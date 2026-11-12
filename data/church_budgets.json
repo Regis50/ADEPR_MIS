@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "B8965f150cb",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B046a42faaf",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B3898d97a6b",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Ba5d2f455f6",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B66fb10e26e",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bea442b989a",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bd293addc70",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B049685515b",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Baffde2670f",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B05d4054eb9",
+    "church_id": "C0385549f16",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B98709d5319",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B7ec40c4db8",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B6b823d8ec6",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Be55386e37b",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B81fbaaf92a",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Baaaa5bd7e4",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B5d12be46b7",
+    "church_id": "C7794acddae",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Baf7c0c3de0",
+    "church_id": "C6112155617",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B9f8dbd8f82",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B7f45cd2508",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Baa538ffbd0",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bfcfa79ee62",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B263d2a9f3e",
+    "church_id": "C135aafc583",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bdd45d4480f",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B6b9da6a31f",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B358982d7ca",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Be589251ea9",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B33a4332dcd",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B423149620d",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B1a9cbf7288",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B9a0b540050",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bd8005ae48d",
+    "church_id": "C43644469bc",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B79946e1c91",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Be6430354bf",
+    "church_id": "C5271561880",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "B74cbb63d08",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bc375c946cc",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bfc4e1a4956",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Bfb22ead067",
+    "church_id": "C2734b44528",
+    "week_date": "2026-11-09",
+    "amount": 100000.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37",
+    "updated_at": "2026-11-12T14:18:28"
+  },
+  {
+    "id": "Be18e8c075b",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-11-02",
+    "amount": 635034.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8e99ca3895",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-11-02",
+    "amount": 992360.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B688118bcd9",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-11-02",
+    "amount": 725844.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3f3f35a506",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-11-02",
+    "amount": 1391259.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be41a6ed5bb",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-11-02",
+    "amount": 638725.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B42d916d567",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-11-02",
+    "amount": 892798.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bad1a650058",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-11-02",
+    "amount": 778522.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be20cbaa0b5",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-11-02",
+    "amount": 762100.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd61def6a0c",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-11-02",
+    "amount": 1495141.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bea9e37a3bd",
+    "church_id": "C0385549f16",
+    "week_date": "2026-11-02",
+    "amount": 681998.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba064400ce8",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-11-02",
+    "amount": 704487.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc27864dbad",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-11-02",
+    "amount": 1171626.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba94084ac60",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-11-02",
+    "amount": 386514.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bddb9cdfdb2",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-11-02",
+    "amount": 356004.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B048e834964",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-11-02",
+    "amount": 1759604.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd3cc36b15b",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-11-02",
+    "amount": 762854.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B461fc2c8ab",
+    "church_id": "C7794acddae",
+    "week_date": "2026-11-02",
+    "amount": 1223335.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bb7ac526176",
+    "church_id": "C6112155617",
+    "week_date": "2026-11-02",
+    "amount": 702165.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B2656d3eba8",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-11-02",
+    "amount": 282628.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B965568c42b",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-11-02",
+    "amount": 554837.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8dcde25f57",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-11-02",
+    "amount": 1118756.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7968f798fb",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-11-02",
+    "amount": 1484978.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0ecf982d61",
+    "church_id": "C135aafc583",
+    "week_date": "2026-11-02",
+    "amount": 924752.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B31d0e7aee5",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-11-02",
+    "amount": 1673702.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba3b0c33ae7",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-11-02",
+    "amount": 375046.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba5163393e8",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-11-02",
+    "amount": 485213.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B32219dbd1b",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-11-02",
+    "amount": 625191.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6997e3fb09",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-11-02",
+    "amount": 1768682.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6d14cfd7f4",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-11-02",
+    "amount": 2767140.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf2efa6cd8e",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-11-02",
+    "amount": 921330.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B067ccb4f6d",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-11-02",
+    "amount": 737538.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6353aebd5e",
+    "church_id": "C43644469bc",
+    "week_date": "2026-11-02",
+    "amount": 544440.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bfbbedd5296",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-11-02",
+    "amount": 1258832.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B837612a95f",
+    "church_id": "C5271561880",
+    "week_date": "2026-11-02",
+    "amount": 673380.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B1552f2fc9a",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-11-02",
+    "amount": 901496.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd25c71e908",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-11-02",
+    "amount": 1190977.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5e6936e4a6",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-11-02",
+    "amount": 1588878.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf0e0561ee7",
+    "church_id": "C2734b44528",
+    "week_date": "2026-11-02",
+    "amount": 812246.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be9c70164e8",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-10-26",
+    "amount": 1805248.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf60fdc1f5b",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-10-26",
+    "amount": 872997.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7339304c84",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-10-26",
+    "amount": 1192171.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5ddd0b1e1e",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-10-26",
+    "amount": 482329.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B481c968c92",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-10-26",
+    "amount": 1519317.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B18e8b9be2a",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-10-26",
+    "amount": 221909.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6cb4a28a63",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-10-26",
+    "amount": 154294.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bec65110cc8",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-10-26",
+    "amount": 699358.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4f928e41d8",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-10-26",
+    "amount": 1569807.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B28731ddd3c",
+    "church_id": "C0385549f16",
+    "week_date": "2026-10-26",
+    "amount": 2234452.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B650f923a0d",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-10-26",
+    "amount": 428551.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4c6e7be537",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-10-26",
+    "amount": 1407416.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be77193b091",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-10-26",
+    "amount": 704742.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bb817329b84",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-10-26",
+    "amount": 328244.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0be077acff",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-10-26",
+    "amount": 536461.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4ae87b24d0",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-10-26",
+    "amount": 606204.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B836bb0136f",
+    "church_id": "C7794acddae",
+    "week_date": "2026-10-26",
+    "amount": 936177.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be159e37309",
+    "church_id": "C6112155617",
+    "week_date": "2026-10-26",
+    "amount": 2228828.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B9176fb60a1",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-10-26",
+    "amount": 369991.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B01b31a62e7",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-10-26",
+    "amount": 569009.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B91d7e647ad",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-10-26",
+    "amount": 528563.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc7d6e1f638",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-10-26",
+    "amount": 1472001.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bafcc0e494f",
+    "church_id": "C135aafc583",
+    "week_date": "2026-10-26",
+    "amount": 2421438.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd383850ffc",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-10-26",
+    "amount": 518094.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Baa3b4030e6",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-10-26",
+    "amount": 1839334.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba31d55c7f5",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-10-26",
+    "amount": 322499.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7ae1ec17dc",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-10-26",
+    "amount": 649468.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf764b04908",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-10-26",
+    "amount": 1126954.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B13c0aeb8b0",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-10-26",
+    "amount": 410174.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Befc5155767",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-10-26",
+    "amount": 390464.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B971ad983c8",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-10-26",
+    "amount": 1295293.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B20dae0093a",
+    "church_id": "C43644469bc",
+    "week_date": "2026-10-26",
+    "amount": 511730.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf0cc3dca09",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-10-26",
+    "amount": 748277.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B93acc0139a",
+    "church_id": "C5271561880",
+    "week_date": "2026-10-26",
+    "amount": 399352.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc9030bdc22",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-10-26",
+    "amount": 1112240.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5f2bafdf14",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-10-26",
+    "amount": 850856.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbefc2eb37f",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-10-26",
+    "amount": 2248720.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4db15c77d1",
+    "church_id": "C2734b44528",
+    "week_date": "2026-10-26",
+    "amount": 827432.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf4078bbe48",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-10-19",
+    "amount": 817878.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba1d669c870",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-10-19",
+    "amount": 293824.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf6c6dc5fe1",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-10-19",
+    "amount": 2155028.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bdaa9f330fa",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-10-19",
+    "amount": 2263250.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3a49725843",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-10-19",
+    "amount": 612485.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bde56e822ed",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-10-19",
+    "amount": 1849280.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bee02cfa2be",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-10-19",
+    "amount": 482210.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B53a9930d99",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-10-19",
+    "amount": 409230.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bb530ae0b08",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-10-19",
+    "amount": 325145.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf903a39fdc",
+    "church_id": "C0385549f16",
+    "week_date": "2026-10-19",
+    "amount": 262359.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bcd9dc560a1",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-10-19",
+    "amount": 1737826.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd36e933641",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-10-19",
+    "amount": 499853.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B158e7010b1",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-10-19",
+    "amount": 764010.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba33bf50f72",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-10-19",
+    "amount": 1818154.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7231573000",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-10-19",
+    "amount": 264729.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B430a0b9d9d",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-10-19",
+    "amount": 473443.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B9b0686ff40",
+    "church_id": "C7794acddae",
+    "week_date": "2026-10-19",
+    "amount": 1335651.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B741a6122c5",
+    "church_id": "C6112155617",
+    "week_date": "2026-10-19",
+    "amount": 1341702.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6d529c6793",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-10-19",
+    "amount": 616355.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd5f99e351c",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-10-19",
+    "amount": 995285.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbd9c55217b",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-10-19",
+    "amount": 307700.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7d0dbfe5ec",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-10-19",
+    "amount": 722744.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7ea05839cf",
+    "church_id": "C135aafc583",
+    "week_date": "2026-10-19",
+    "amount": 1686424.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8b4dca24e6",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-10-19",
+    "amount": 996154.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbc35816f88",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-10-19",
+    "amount": 654903.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B204ceafed8",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-10-19",
+    "amount": 1172718.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf0d9ef68de",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-10-19",
+    "amount": 1052096.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B38e993f47b",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-10-19",
+    "amount": 1017968.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bfb0f6bc082",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-10-19",
+    "amount": 1013552.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc22036895b",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-10-19",
+    "amount": 2851032.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B98f053a2be",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-10-19",
+    "amount": 847978.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0b3454de6e",
+    "church_id": "C43644469bc",
+    "week_date": "2026-10-19",
+    "amount": 1558155.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0643166c73",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-10-19",
+    "amount": 288748.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc2ced8b19a",
+    "church_id": "C5271561880",
+    "week_date": "2026-10-19",
+    "amount": 743412.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B08f7b7bead",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-10-19",
+    "amount": 1620274.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf589802909",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-10-19",
+    "amount": 450179.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba21ab5d543",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-10-19",
+    "amount": 155774.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B2a1109b6db",
+    "church_id": "C2734b44528",
+    "week_date": "2026-10-19",
+    "amount": 1157520.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbad20c8467",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-10-12",
+    "amount": 469170.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6fd83102d9",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-10-12",
+    "amount": 1797417.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4e5ce9f38f",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-10-12",
+    "amount": 832368.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3300f5ff37",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-10-12",
+    "amount": 958803.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B2dbfe9ef92",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-10-12",
+    "amount": 707459.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B596316a0bf",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-10-12",
+    "amount": 300379.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba114076e1d",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-10-12",
+    "amount": 622423.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Baf02f1f260",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-10-12",
+    "amount": 675004.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bfd3edd12cf",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-10-12",
+    "amount": 1007793.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B082a9187ea",
+    "church_id": "C0385549f16",
+    "week_date": "2026-10-12",
+    "amount": 1056180.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Beae2ad54d6",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-10-12",
+    "amount": 248501.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bcc41802e1b",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-10-12",
+    "amount": 770704.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B9ecc2958d3",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-10-12",
+    "amount": 2713922.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6a74e1d2fc",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-10-12",
+    "amount": 749067.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc638d190fd",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-10-12",
+    "amount": 1215451.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0eea9fb3a7",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-10-12",
+    "amount": 325272.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bee6f1a765c",
+    "church_id": "C7794acddae",
+    "week_date": "2026-10-12",
+    "amount": 2391754.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be09ebeadfa",
+    "church_id": "C6112155617",
+    "week_date": "2026-10-12",
+    "amount": 1095678.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbebff4a0f4",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-10-12",
+    "amount": 255268.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Beeb3da1a9e",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-10-12",
+    "amount": 611138.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7847d94467",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-10-12",
+    "amount": 1247002.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B04045c0b49",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-10-12",
+    "amount": 818447.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7f9bc7b1a7",
+    "church_id": "C135aafc583",
+    "week_date": "2026-10-12",
+    "amount": 715645.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5f04157669",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-10-12",
+    "amount": 989494.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B068b7bedb1",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-10-12",
+    "amount": 580029.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc82db21bd8",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-10-12",
+    "amount": 539340.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3809b450db",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-10-12",
+    "amount": 1038264.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B911b15cf55",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-10-12",
+    "amount": 723324.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bdfa72f67c0",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-10-12",
+    "amount": 1098248.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Beaa0325465",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-10-12",
+    "amount": 634391.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B452f7daab5",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-10-12",
+    "amount": 1099235.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bca3078efa7",
+    "church_id": "C43644469bc",
+    "week_date": "2026-10-12",
+    "amount": 2995176.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bdcd8910b96",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-10-12",
+    "amount": 1799232.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B10a34504f5",
+    "church_id": "C5271561880",
+    "week_date": "2026-10-12",
+    "amount": 2335894.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8ce76b9dff",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-10-12",
+    "amount": 616043.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B947e5f5aff",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-10-12",
+    "amount": 1776412.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bccbfb5ee6e",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-10-12",
+    "amount": 1095998.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bdaaf5aefc5",
+    "church_id": "C2734b44528",
+    "week_date": "2026-10-12",
+    "amount": 365665.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bde19f3623f",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-10-05",
+    "amount": 1087068.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B1e37869f5a",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-10-05",
+    "amount": 926002.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4c68433eda",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-10-05",
+    "amount": 1402615.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bca4234a3cb",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-10-05",
+    "amount": 355037.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf9dc914763",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-10-05",
+    "amount": 1340302.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3d0f116de5",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-10-05",
+    "amount": 1571628.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8f08831dde",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-10-05",
+    "amount": 855606.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc043ece5d5",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-10-05",
+    "amount": 412585.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B01c7cdbfab",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-10-05",
+    "amount": 245413.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf0e5cdf44b",
+    "church_id": "C0385549f16",
+    "week_date": "2026-10-05",
+    "amount": 1133188.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3d97d98bd3",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-10-05",
+    "amount": 928929.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd33b5e97aa",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-10-05",
+    "amount": 1471336.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B71ae907e96",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-10-05",
+    "amount": 1773118.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B14645c31af",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-10-05",
+    "amount": 323667.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bab0d774c61",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-10-05",
+    "amount": 389499.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5199260838",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-10-05",
+    "amount": 284841.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B52ce0cf809",
+    "church_id": "C7794acddae",
+    "week_date": "2026-10-05",
+    "amount": 731504.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4ff2471afa",
+    "church_id": "C6112155617",
+    "week_date": "2026-10-05",
+    "amount": 894484.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0946943d95",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-10-05",
+    "amount": 633666.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4cbf17cea7",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-10-05",
+    "amount": 317768.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8b46ced9be",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-10-05",
+    "amount": 322681.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba85478324f",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-10-05",
+    "amount": 392667.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba037b1ff40",
+    "church_id": "C135aafc583",
+    "week_date": "2026-10-05",
+    "amount": 1782993.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc0d0348087",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-10-05",
+    "amount": 926886.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B04fbff32de",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-10-05",
+    "amount": 660560.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bdc0c093f6c",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-10-05",
+    "amount": 1250244.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B12671a6db3",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-10-05",
+    "amount": 206657.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B178064291a",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-10-05",
+    "amount": 408661.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bb3d89b0f26",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-10-05",
+    "amount": 2785146.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bee29f05bf6",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-10-05",
+    "amount": 393560.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bb2ac066e45",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-10-05",
+    "amount": 1127179.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4a787de6cc",
+    "church_id": "C43644469bc",
+    "week_date": "2026-10-05",
+    "amount": 1108521.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5fd4798f5a",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-10-05",
+    "amount": 679947.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B1c8ac37311",
+    "church_id": "C5271561880",
+    "week_date": "2026-10-05",
+    "amount": 1461779.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7fc89eb51a",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-10-05",
+    "amount": 1072005.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bcb7a7113a9",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-10-05",
+    "amount": 744129.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bfb2c847b1f",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-10-05",
+    "amount": 238579.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be4019a3798",
+    "church_id": "C2734b44528",
+    "week_date": "2026-10-05",
+    "amount": 318912.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bca75bc2548",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-09-28",
+    "amount": 416752.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B83867903c1",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-09-28",
+    "amount": 608488.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B021bbf1a8d",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-09-28",
+    "amount": 1880924.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B2c1702fb67",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-09-28",
+    "amount": 258220.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6cfc4e48c2",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-09-28",
+    "amount": 1471111.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bfe05c10a86",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-09-28",
+    "amount": 1037630.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bb9dc3b56c6",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-09-28",
+    "amount": 721544.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd84e3e5ab1",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-09-28",
+    "amount": 704322.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf952d5be7c",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-09-28",
+    "amount": 947232.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B08d9d9a14c",
+    "church_id": "C0385549f16",
+    "week_date": "2026-09-28",
+    "amount": 1194716.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba8a60c4a56",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-09-28",
+    "amount": 561926.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6f070c8e00",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-09-28",
+    "amount": 663760.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B64a4d13e36",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-09-28",
+    "amount": 256041.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B13c8699325",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-09-28",
+    "amount": 1238510.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be3cf7e508c",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-09-28",
+    "amount": 591863.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7a5680c756",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-09-28",
+    "amount": 242040.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B9b2d6b8dc0",
+    "church_id": "C7794acddae",
+    "week_date": "2026-09-28",
+    "amount": 1188376.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bfcdae21762",
+    "church_id": "C6112155617",
+    "week_date": "2026-09-28",
+    "amount": 823577.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B1234801076",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-09-28",
+    "amount": 959025.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B28a6c650f6",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-09-28",
+    "amount": 408499.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7affe7e739",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-09-28",
+    "amount": 1059801.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be727b7d312",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-09-28",
+    "amount": 1031858.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B183fd64e92",
+    "church_id": "C135aafc583",
+    "week_date": "2026-09-28",
+    "amount": 419416.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B9da045d8e5",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-09-28",
+    "amount": 508340.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5666e9f483",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-09-28",
+    "amount": 1310268.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8a901a389c",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-09-28",
+    "amount": 502693.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc3d986aa09",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-09-28",
+    "amount": 2412984.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6b5b77e0d2",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-09-28",
+    "amount": 665711.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B162a7aebf6",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-09-28",
+    "amount": 1748286.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7755a66846",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-09-28",
+    "amount": 498670.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bae379d412e",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-09-28",
+    "amount": 2179068.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B908db43764",
+    "church_id": "C43644469bc",
+    "week_date": "2026-09-28",
+    "amount": 567444.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf265de93d1",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-09-28",
+    "amount": 1216101.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B2a09113a00",
+    "church_id": "C5271561880",
+    "week_date": "2026-09-28",
+    "amount": 1367131.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B2b075a649c",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-09-28",
+    "amount": 468581.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8ee53bbdf3",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-09-28",
+    "amount": 1616502.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B0b6e1ae788",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-09-28",
+    "amount": 783992.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7cafd97c85",
+    "church_id": "C2734b44528",
+    "week_date": "2026-09-28",
+    "amount": 2941968.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B4581398809",
+    "church_id": "C518386e1cf",
+    "week_date": "2026-09-21",
+    "amount": 633769.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba20fb137f5",
+    "church_id": "C6a12c8aadd",
+    "week_date": "2026-09-21",
+    "amount": 619107.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7e1feed13b",
+    "church_id": "Ceccaede632",
+    "week_date": "2026-09-21",
+    "amount": 2749166.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf0a78b6faf",
+    "church_id": "C33e92dcafa",
+    "week_date": "2026-09-21",
+    "amount": 719732.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbc557ea55c",
+    "church_id": "C2d8b8ac794",
+    "week_date": "2026-09-21",
+    "amount": 782008.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3e21b5ee8e",
+    "church_id": "C6f1271f60f",
+    "week_date": "2026-09-21",
+    "amount": 1390312.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8425af74a7",
+    "church_id": "C5def0f372d",
+    "week_date": "2026-09-21",
+    "amount": 402916.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bdac130c2a5",
+    "church_id": "Caf2870405b",
+    "week_date": "2026-09-21",
+    "amount": 472539.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc7954067fa",
+    "church_id": "C8d810fa6e3",
+    "week_date": "2026-09-21",
+    "amount": 1046858.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd00e46df58",
+    "church_id": "C0385549f16",
+    "week_date": "2026-09-21",
+    "amount": 467263.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf6fb2e5516",
+    "church_id": "C13ff849a92",
+    "week_date": "2026-09-21",
+    "amount": 699883.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3dd526077b",
+    "church_id": "Ca2a6158173",
+    "week_date": "2026-09-21",
+    "amount": 1367337.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B5c61bb13f6",
+    "church_id": "Cd98627592c",
+    "week_date": "2026-09-21",
+    "amount": 1270390.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B98e3b957da",
+    "church_id": "Cf386b2b78a",
+    "week_date": "2026-09-21",
+    "amount": 878492.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B8be264eb88",
+    "church_id": "Cd753d82032",
+    "week_date": "2026-09-21",
+    "amount": 1788274.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B238a348729",
+    "church_id": "C71f5985d9f",
+    "week_date": "2026-09-21",
+    "amount": 503322.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6c1c7c364b",
+    "church_id": "C7794acddae",
+    "week_date": "2026-09-21",
+    "amount": 1373804.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B7c5dc15c66",
+    "church_id": "C6112155617",
+    "week_date": "2026-09-21",
+    "amount": 560943.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B859f3affe3",
+    "church_id": "C03b8db4e88",
+    "week_date": "2026-09-21",
+    "amount": 2373914.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B27a1cbb9d6",
+    "church_id": "C8de2baa40e",
+    "week_date": "2026-09-21",
+    "amount": 305439.2,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B214340564c",
+    "church_id": "C98a86db3a9",
+    "week_date": "2026-09-21",
+    "amount": 167422.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B1e01da0786",
+    "church_id": "Ccc314a9b98",
+    "week_date": "2026-09-21",
+    "amount": 1680444.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bc1d1aba3f2",
+    "church_id": "C135aafc583",
+    "week_date": "2026-09-21",
+    "amount": 2248828.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be15d532547",
+    "church_id": "C349dab0b9e",
+    "week_date": "2026-09-21",
+    "amount": 1629706.8,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3c6b7704ec",
+    "church_id": "C51f735e8a3",
+    "week_date": "2026-09-21",
+    "amount": 1000576.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bf8cb4006fe",
+    "church_id": "C6ba631d959",
+    "week_date": "2026-09-21",
+    "amount": 666238.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be55600b218",
+    "church_id": "Ca3a79c07eb",
+    "week_date": "2026-09-21",
+    "amount": 1486778.4,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B25d1ea6687",
+    "church_id": "C0f7d9eb3ca",
+    "week_date": "2026-09-21",
+    "amount": 710672.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B147efe5f13",
+    "church_id": "C6524ecc0bf",
+    "week_date": "2026-09-21",
+    "amount": 2732494.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B6f3bda71c9",
+    "church_id": "Cc7e18f70d7",
+    "week_date": "2026-09-21",
+    "amount": 212824.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B30b855bfd7",
+    "church_id": "C5fdef22296",
+    "week_date": "2026-09-21",
+    "amount": 805878.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bbdf57b0369",
+    "church_id": "C43644469bc",
+    "week_date": "2026-09-21",
+    "amount": 430716.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B74f6e8c277",
+    "church_id": "Cef5ca5f762",
+    "week_date": "2026-09-21",
+    "amount": 590467.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3d539986f6",
+    "church_id": "C5271561880",
+    "week_date": "2026-09-21",
+    "amount": 1453648.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Ba88b6763f0",
+    "church_id": "Ce4c463a5c7",
+    "week_date": "2026-09-21",
+    "amount": 1568541.6,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "B3f491e2c7d",
+    "church_id": "C1d371bfa66",
+    "week_date": "2026-09-21",
+    "amount": 584661.5,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Be2532f7c89",
+    "church_id": "Ce355f6bc18",
+    "week_date": "2026-09-21",
+    "amount": 361963.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  },
+  {
+    "id": "Bd26858da0e",
+    "church_id": "C2734b44528",
+    "week_date": "2026-09-21",
+    "amount": 1347368.0,
+    "set_by": "U64da1bccc6",
+    "created_at": "2026-11-10T06:47:37"
+  }
+]

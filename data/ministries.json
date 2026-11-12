@@ -1,0 +1,69 @@
+[
+  {
+    "id": "MNd24daa9b71",
+    "name": "ABANA",
+    "description": "Ministeur y'abana bato",
+    "leader_name": "Muyobozi Abana",
+    "leader_phone": "",
+    "leader_id": "",
+    "active": true,
+    "created_at": "2026-11-10T06:47:29",
+    "members_count": 0
+  },
+  {
+    "id": "MN012048231b",
+    "name": "URUBYIRUKO",
+    "description": "Ministeur y'urubyiruko",
+    "leader_name": "Muyobozi Urubyiruko",
+    "leader_phone": "",
+    "leader_id": "",
+    "active": true,
+    "created_at": "2026-11-10T06:47:29",
+    "members_count": 0
+  },
+  {
+    "id": "MNf5db44354f",
+    "name": "ABAGABO",
+    "description": "Ministeur y'abagabo",
+    "leader_name": "Muyobozi Abagabo",
+    "leader_phone": "",
+    "leader_id": "",
+    "active": true,
+    "created_at": "2026-11-10T06:47:29",
+    "members_count": 0
+  },
+  {
+    "id": "MN06b1f7e182",
+    "name": "ABAGORE",
+    "description": "Ministeur y'abagore",
+    "leader_name": "Muyobozi Abagore",
+    "leader_phone": "",
+    "leader_id": "",
+    "active": true,
+    "created_at": "2026-11-10T06:47:29",
+    "members_count": 0
+  },
+  {
+    "id": "MN428c6d53f3",
+    "name": "UMUSIKERI",
+    "description": "Ministeur y'umusikeri (choir)",
+    "leader_name": "Muyobozi Umusikeri",
+    "leader_phone": "",
+    "leader_id": "",
+    "active": true,
+    "created_at": "2026-11-10T06:47:29",
+    "members_count": 0
+  },
+  {
+    "id": "MNb8454c1548",
+    "name": "ABINGINZI",
+    "description": "MInisiteur yivugabutumwa",
+    "leader_name": "KAREMERA",
+    "leader_phone": "0786717390",
+    "leader_id": "",
+    "church_id": "",
+    "active": true,
+    "created_at": "2026-11-12T14:08:11",
+    "members_count": 0
+  }
+]

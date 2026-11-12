@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "finalize_day_of_week": 6,
+  "hour": 23,
+  "minute": 0,
+  "grace_days": 6,
+  "last_run": "",
+  "last_run_week": "",
+  "updated_at": "2026-11-10T13:33:40"
+}
